@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DatabaseMessaging</string>
+
+    <string name="new_message_btn_title">New Message Button</string>
+    <string name="reload_btn_title">Reload Button</string>
+</resources>

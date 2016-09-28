@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="william_lee.labs.fun.databasemessaging.MessagingActivity">
+
+    <item
+        android:id="@+id/new_message_btn"
+        android:orderInCategory="0"
+        android:icon="@drawable/send"
+        app:showAsAction="always"
+        android:title="@string/new_message_btn_title" />
+
+    <item
+        android:id="@+id/reload_btn"
+        android:orderInCategory="1"
+        android:icon="@drawable/reload"
+        app:showAsAction="always"
+        android:title="@string/reload_btn_title"/>
+
+</menu>
